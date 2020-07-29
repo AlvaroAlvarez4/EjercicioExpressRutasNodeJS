@@ -1,0 +1,7 @@
+    1.Crear un proyecto con Express con las 4 librerias que estamos utilizando hasta ahora
+    2.Crear 4 rutas principales distinta : - Index
+                                            - Citys
+                                            - User
+                                            - Technology
+    3. Crear dos get por archivo de ruta
+    4. Que cada ruta envie un mensaje con un texto (diferentes)
